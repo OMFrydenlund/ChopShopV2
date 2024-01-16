@@ -34,6 +34,7 @@
             else if (userInput.ToUpper() == "Y")
             {
                 Console.WriteLine("\nAlright let's take a look at your car.");
+                //add actions for health check and repairs
             }
             else if (userInput.ToUpper() == "N")
             {
